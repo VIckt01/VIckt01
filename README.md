@@ -11,8 +11,7 @@ Meus conhecimentos:
  Ferramentas que utilizo:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="40" height="40" />
- <br>
-<div class="tenor-gif-embed" data-postid="26086350" data-share-method="host" data-aspect-ratio="1.20755" data-width="100%"><a href="https://tenor.com/view/fischl-genshin-genshin-impact-fate-grand-order-fate-anime-gif-26086350">Fischl Genshin Sticker</a>from <a href="https://tenor.com/search/fischl-stickers">Fischl Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 <br>
 <div>
   <a href="https://www.linkedin.com/in/estágioti" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
