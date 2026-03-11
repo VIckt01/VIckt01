@@ -41,6 +41,14 @@ When I'm not debugging C# or Java, you'll probably find me crocheting or playing
 
 ---
 
+### 🎀 My Creative Corner
+* 🧶 **Crochet:** Currently working on a Mikasa-inspired scarf.
+* 🎮 **Gaming:** Stardew Valley & The Sims 4 enthusiast.
+* 📸 **Photography:** Capturing aesthetic moments in Sorocaba.
+* 🎧 **Music:** Lana Del Rey, SZA, and 80s Rock.
+
+---
+
 ### ☁️ Let's Connect!
 [LinkedIn](https://www.linkedin.com/in/estágioti) | [Instagram](https://www.instagram.com/_.yuyuki/)
 
