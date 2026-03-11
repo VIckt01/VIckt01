@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="Victoria’s Dev Space.png" alt="Victoria's Dev Space Banner" width="100%">
+</div>
+
+<div align="center">
   
 # ⋆ ˚｡⋆ ☁️ Hello, I'm Victoria! ₊👾⊹
 
